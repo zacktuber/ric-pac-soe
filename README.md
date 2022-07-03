@@ -20,7 +20,7 @@ I have use of a 3D printer and a cutting machine so I decided to print the board
 
 I designed the board using AutoDesk Fusion 360. I picked dimensions that would keep the board pocket-sized.
 
-\*put screenshot of Fusion here
+![fusion 360](fusion.png)
 
 I printed the board and divider in different colours to make it visually appealing.
 
