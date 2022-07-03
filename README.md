@@ -26,7 +26,7 @@ I printed the board and divider in different colours to make it visually appeali
 
 I found images of Rock Paper Scissors hands on the internet and converted them to SVG using InkScape.
 
-\*put screenshot of Inkscape here
+![inkscape](inkscape.png)
 
 I used the same image to make the card deck and tokens using Cricut Design Space.
 
