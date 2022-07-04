@@ -18,16 +18,23 @@ The symbols available to the players will be dictated by a card hand and deck.
 
 I have use of a 3D printer and a cutting machine so I decided to print the board and use the cutting machine to make the cards and tokens.
 
+I found images of Rock Paper Scissors hands on the internet and converted them to SVG using InkScape.
+
+![inkscape](inkscape.png)
+
 I designed the board using AutoDesk Fusion 360. I picked dimensions that would keep the board pocket-sized.
 
 ![fusion 360](fusion.png)
 
 I printed the board and divider in different colours to make it visually appealing.
 
-I found images of Rock Paper Scissors hands on the internet and converted them to SVG using InkScape.
-
-![inkscape](inkscape.png)
+![3D print](3Dprint.jpg)
 
 I used the same image to make the card deck and tokens using Cricut Design Space.
 
 ![cricut.mov](cricut.png)
+
+After 3D printing the tokens, I painted them white and used a Sharpie to color in the icons.
+
+![PaintedTokens](PaintedTokens.jpg)
+
