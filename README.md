@@ -14,7 +14,7 @@ The symbols available to the players will be dictated by a card hand and deck.
 
 [Full instructions for how to play the game](how-to-play.md)
 
-## Design
+## Design & Build
 
 I have use of a 3D printer and a cutting machine so I decided to print the board and use the cutting machine to make the cards and tokens.
 
@@ -30,7 +30,7 @@ I printed the board and divider in different colours to make it visually appeali
 
 ![3D print](3Dprint.jpg)
 
-I used the same image to make the card deck and tokens using Cricut Design Space.
+I used the same images to make the card deck using Cricut Design Space. I chose to use circular cards for continuity with the tokens.
 
 ![cricut.mov](cricut.png)
 
@@ -38,3 +38,10 @@ After 3D printing the tokens, I painted them white and used a Sharpie to color i
 
 ![PaintedTokens](PaintedTokens.jpg)
 
+## Learning
+
+In hindsight I should have made everything a little bit bigger, the tokens are fiddly to place and pick up. The base could also be heavier to add a bit more stability.
+
+The 3D printed tokens were time consuming to print and paint, maybe paper tokens would have been quicker and easier.
+
+Overlal this was a fun project. Thinking about game design and what a game needs to make it intuitive and playable was interesting.
