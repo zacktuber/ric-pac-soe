@@ -32,7 +32,7 @@ I printed the board and divider in different colours to make it visually appeali
 
 I used the same images to make the card deck using Cricut Design Space. I chose to use circular cards for continuity with the tokens.
 
-![cricut.mov](cricut.png)
+![Cricut Design Space](cricut.png)
 
 After 3D printing the tokens, I painted them white and used a Sharpie to color in the icons.
 
@@ -45,3 +45,12 @@ In hindsight I should have made everything a little bit bigger, the tokens are f
 The 3D printed tokens were time consuming to print and paint, maybe paper tokens would have been quicker and easier.
 
 Overlal this was a fun project. Thinking about game design and what a game needs to make it intuitive and playable was interesting.
+
+
+## STL Files
+
+![board.stl](./board.stl)
+![divider.stl](./divider.stl)
+![rock-token.stl](./rock-token.stl)
+![paper-token.stl](./paper-token.stl)
+![scissor-token.stl](./scissor-token.stl)
